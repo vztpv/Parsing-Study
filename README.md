@@ -6,5 +6,5 @@
     using multi-thread?
     using cuda?
     
-# From Theory.
-# From Code.
+# From Theory. - automata, compiler.
+# From Code. - my own json parser?
